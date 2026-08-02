@@ -1,0 +1,20 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+*{
+   font-family: "Press Start 2P", system-ui
+}
+.custom-toast {
+  font-family: 'Press Start 2P', Arial !important;
+
+  justify-content: center;
+}
+.custom-toast-fail {
+  font-family: 'Press Start 2P', Arial !important;
+  justify-content: center;
+  background-color:red;
+  width:450px;
+  height:40px;
+  font-size:15px;
+  font-family:Press Start 2P , Arial;
+}
